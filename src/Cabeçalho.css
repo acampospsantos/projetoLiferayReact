@@ -18,10 +18,11 @@
     display: flex;
     flex-direction: row; /*Faz com que os elementos da flex box estejam alinhados da esquerda para direita*/
     justify-content: space-between; /*Põe um espaço entre os elementos(os afasta)*/
+    
 }
 
 .logo{
-    margin-left: -10px;
+    margin-left: -320px;
 }
 
 .logo img {
@@ -31,6 +32,7 @@
 
 /*div que estiliza botão Login*/
 .item-menu {    
+    margin-right: -320px;
     padding: 3px 8px;    
 }
 
