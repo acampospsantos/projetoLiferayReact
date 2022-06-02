@@ -1,0 +1,11 @@
+.conteudo{
+    height: 700px;
+    background-color: #edf4fd;
+    border: 1px solid;
+}
+
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
