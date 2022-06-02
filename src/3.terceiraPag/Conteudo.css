@@ -37,6 +37,7 @@
 .botoes li a{
     text-decoration: none;
     font-weight: bold;
+    text-transform: uppercase;
     color: rgb(2, 2, 2);
     font-size: 20px;
     opacity: 1;
