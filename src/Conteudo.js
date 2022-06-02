@@ -9,15 +9,15 @@ function MiddleContent() {
                 <div className="box-botoes">
                     <div className="botoes">
                         <ul>
-                            <li> <a href="#"> Ações Inscritas </a> </li>
-                            <li> <a href="#"> Vagas Disponíveis </a> </li>
+                            <li> <a href="#"> Ações promovidas </a> </li>
+                            <li> <a href="#"> Criar nova ação </a> </li>
                             <li> <a href="#"> Sair </a> </li>                            
                         </ul>
                     </div>
                 </div>
 
-                <div className="portalVoluntario">
-                    <h1> Portal Voluntário </h1>
+                <div className="portalOrganização">
+                    <h1> Portal Organização </h1>
                 </div>
 
             </div>

@@ -37,6 +37,7 @@
 .botoes li a{
     text-decoration: none;
     font-weight: bold;
+    text-transform: uppercase;
     color: rgb(2, 2, 2);
     font-size: 20px;
     opacity: 1;
@@ -52,6 +53,16 @@
 }
 
 .portalVoluntario h1{
+    margin-left: 190px;
+    color: blue;    
+}
+
+.portalOrganização{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+
+.portalOrganização h1{
     margin-left: 190px;
     color: blue;    
 }
