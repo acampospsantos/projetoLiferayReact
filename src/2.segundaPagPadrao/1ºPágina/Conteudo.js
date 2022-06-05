@@ -17,6 +17,10 @@ function MiddleContent() {
                     </div>
                 </div>
 
+                <div className="tituloPag1">
+                    <h1> Sistema de Voluntariado Liferay </h1>
+                </div>
+
             </div>
 
         </div>
