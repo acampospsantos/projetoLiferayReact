@@ -1,0 +1,63 @@
+.conteudo{
+    height: 755px;
+    background-color: #edf4fd;
+    border: 1px solid;
+    width: 100%;
+    position: fixed;
+}
+
+.centerConteudo {    
+    margin: 0 auto;
+    padding: 0 2%;
+    width: 100%;
+}
+
+.box-botoes{
+    width: 100%;
+    display: flex;
+    align-items: center;    
+}
+
+.botoes{
+    margin: 0px auto;
+    border: 0px solid;   
+    padding: 3px 8px; 
+}
+
+.botoes ul{
+    display: flex;
+}
+
+.botoes li{
+    list-style: none;
+    margin: 0 150px;
+    align-items: center; /*Pra ficar tudo centralizado*/
+    justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
+}
+
+.botoes li a{
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: rgb(2, 2, 2);
+    font-size: 20px;
+    opacity: 1;
+}
+
+.menu li a:hover{
+    opacity: 0.7;
+}
+
+.tituloPag4{
+    margin-top: 25px;
+    margin-left: 70px;   
+}
+
+.tituloPag4 h1{
+    margin-left: 190px;
+    color: rgb(0, 0, 0);    
+    width: 450px;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+/*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
