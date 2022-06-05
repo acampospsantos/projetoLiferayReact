@@ -9,15 +9,12 @@ function MiddleContent() {
                 <div className="box-botoes">
                     <div className="botoes">
                         <ul>
-                            <li> <a href="#"> Ações promovidas </a> </li>
-                            <li> <a href="#"> Criar nova ação </a> </li>
-                            <li> <a href="#"> Sair </a> </li>                            
+                            <li> <a href="#"> Início </a> </li>
+                            <li> <a href="#"> Voluntários </a> </li>
+                            <li> <a href="#"> Organizações </a> </li>
+                            <li> <a href="#"> Entrar </a> </li>
                         </ul>
                     </div>
-                </div>
-
-                <div className="portalOrganização">
-                    <h1> Sistema de Voluntariado Liferay </h1>
                 </div>
 
             </div>

@@ -59,13 +59,17 @@
 }
 
 .portalOrganização{
-    margin-top: 5px;
+    margin-top: 25px;
     margin-left: 50px;
+    background-color: red;    
+   
 }
 
 .portalOrganização h1{
     margin-left: 190px;
     color: blue;    
+    width: 400px;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

@@ -1,8 +1,8 @@
 
 import './App.css';
-import Header from './Cabeçalho';
-import MiddleContent from './Conteudo';
-import Footer from './Rodapé';
+import Header from './2.segundaPagPadrao/1ºPágina/Cabeçalho';
+import MiddleContent from './2.segundaPagPadrao/1ºPágina/Conteudo';
+import Footer from './2.segundaPagPadrao/1ºPágina/Rodapé';
 
 
 function App() {
