@@ -21,6 +21,14 @@ function MiddleContent() {
                     <h1> VOLUNTÁRIOS </h1>
                 </div>
 
+                <div className="textoPag2">
+                    <h3> O voluntariado é sobre trocas - de experiência, conhecimento, serviço, apoio, cidadania, carinho, amor... Existindo um ganho não apenas para a organização, mas também para o voluntário. É uma experiência para todos independe de gênero, raça ou etnia que permite conhecer novas realidades, se engajar em uma causa social, contribuir com suas habilidades, e até mesmo desenvolver novas competências. </h3>
+                </div>
+
+                <div className="vemSerVoluntario">
+                    <a href='#'> <h3> Vem ser um voluntário </h3> </a>
+                </div>
+
             </div>
 
         </div>

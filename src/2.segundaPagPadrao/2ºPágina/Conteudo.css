@@ -60,4 +60,21 @@
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
+.textoPag2{
+    background-color: green;
+    width: 500px;
+    margin-top: 25px;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+.vemSerVoluntario h3 {
+    width: 200px;
+    color: red;    
+    border-radius: 8px;
+}
+
+.vemSerVoluntario{
+    border-radius: 8px solid rgb(211, 18, 18);    
+}
+
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

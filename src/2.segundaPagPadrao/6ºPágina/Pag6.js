@@ -2,7 +2,7 @@ import Header from './Cabeçalho.js';
 import MiddleContent from './Conteudo.js';
 import Footer from './Rodapé.js';
 
-function PrimeiraPagina() {
+function SextaPagina() {
     return (
         <div className='Pag'>
             <Header /> {/* Cabeçalho */}
@@ -14,4 +14,4 @@ function PrimeiraPagina() {
     )
 }
 
-export default  PrimeiraPagina;
+export default SextaPagina;
