@@ -1,7 +1,9 @@
 .final {
-    height: 155px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: #193582;
-    display: flex;
 }
 
 .center {
@@ -10,20 +12,22 @@
     padding: 0 2%;
 }
 
-.foot {    
+.foot {
     display: flex;
-    flex-direction: row; /*Faz com que os elementos da flex box estejam alinhados da esquerda para direita*/
-    justify-content: center; /*Põe um espaço entre os elementos(os afasta)*/
+    flex-direction: row;
+    /*Faz com que os elementos da flex box estejam alinhados da esquerda para direita*/
+    justify-content: center;
+    /*Põe um espaço entre os elementos(os afasta)*/
     margin: 10px auto;
     width: 100%;
 }
 
-.itens-foot{
+.itens-foot {
     display: flex;
     margin-top: 80px;
 }
 
-.logoo{
+.logoo {
     margin-right: 15px;
 }
 
@@ -33,6 +37,6 @@
     width: 28px;
 }
 
-.texto{
+.texto {
     padding-top: 2px;
 }

@@ -1,7 +1,9 @@
 .final {
-    height: 155px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
     background-color: #193582;
-    display: flex;
 }
 
 .center {

@@ -3,6 +3,7 @@
     background-color: #edf4fd;
     border: 1px solid;
     width: 100%;
+    position: fixed;
 }
 
 .centerConteudo {    
@@ -53,16 +54,6 @@
 }
 
 .portalVoluntario h1{
-    margin-left: 190px;
-    color: blue;    
-}
-
-.portalOrganização{
-    margin-top: 5px;
-    margin-left: 50px;
-}
-
-.portalOrganização h1{
     margin-left: 190px;
     color: blue;    
 }

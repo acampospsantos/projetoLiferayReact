@@ -3,6 +3,7 @@
     background-color: #edf4fd;
     border: 1px solid;
     width: 100%;
+    position: fixed;
 }
 
 .centerConteudo {    
@@ -11,7 +12,7 @@
     width: 100%;
 }
 
-.box-botoes{    
+.box-botoes{
     width: 100%;
     display: flex;
     align-items: center;    
@@ -29,7 +30,7 @@
 
 .botoes li{
     list-style: none;
-    margin: 15px 220px;
+    margin: 0 150px;
     align-items: center; /*Pra ficar tudo centralizado*/
     justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
 }
@@ -45,16 +46,6 @@
 
 .menu li a:hover{
     opacity: 0.7;
-}
-
-.portalVoluntario{    
-    margin-top: 5px;
-    margin-left: 50px;
-}
-
-.portalVoluntario h1{
-    margin-left: 190px;
-    color: blue;    
 }
 
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
