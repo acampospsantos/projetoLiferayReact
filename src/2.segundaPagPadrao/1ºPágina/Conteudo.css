@@ -57,7 +57,7 @@
 .tituloPag1 h1{
     margin-left: 190px;
     color: rgb(0, 0, 0);    
-    width: 400px;
+    width: 450px;
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
