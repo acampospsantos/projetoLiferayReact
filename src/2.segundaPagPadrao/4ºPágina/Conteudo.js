@@ -28,18 +28,18 @@ function MiddleContent() {
                             <h4> CPF/CNPJ </h4>
                             <input placeholder="Senha..." type="text" />
                             <h4> SENHA </h4>
-                            <p> Use oito ou mais caracteres com uma combinação de letras, números e símbolos </p>
+                            <p> Esqueceu a senha? </p>
                         </div>
                         <input type="submit" />
                     </form>
                 </div>
 
                 <div className="semContaVol">
-                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser um Voluntário </h3> </a>
+                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Ainda não possui uma conta? Vem ser um Voluntário </h3> </a>
                 </div>
 
                 <div className="semContaOrg">
-                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser uma Organização </h3> </a>
+                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Ainda não possui uma conta? Vem ser uma Organização </h3> </a>
                 </div>
 
             </div >
