@@ -50,8 +50,7 @@
 
 .tituloPag2{
     margin-top: 25px;
-    margin-left: 280px;   
-    background-color: orange;
+    margin-left: 280px;       
     width: 230px;
 }
 
@@ -63,14 +62,12 @@
 }
 
 .meiota{
-    background-color: blue;
     height: 450px;
     margin-left: 290px;
     margin-right: 150px;;
 }
 
 .textoPag2{
-    background-color: green;
     width: 450px;
     margin-top: 25px;
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
@@ -81,27 +78,30 @@
 }
 
 .vemSerVoluntario{
-    border-radius: 8px solid rgb(211, 18, 18);    
+    background-color: #1127e7;  
+    width: 240px;  
+    height: 40px;
+    margin-left: 80px;    
 }
 
 .vemSerVoluntario h3 {
-    margin-top: 30px;
-    margin-left: 80px;
+    margin-top: 30px;    
     width: 200px;
-    color: red;   
+    color: black;         
+    border: 2px;    
+    width: 400px;       
 }
 
 .blueImage{
-    margin-left: 900px;
-    margin-top: -325px;
-    background-color: black;
+    margin-left: 700px;
+    margin-top: -455px;    
     height: 450px;
     width: 450px;
 }
 
 .blueImage img{
-    width: 500px;
-    height: 450px;
+    width: 600px;
+    height: 550px;
 }
 
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

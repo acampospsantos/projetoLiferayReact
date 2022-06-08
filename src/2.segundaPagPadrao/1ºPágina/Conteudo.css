@@ -1,4 +1,4 @@
-.conteudo{
+.conteudo {
     height: 755px;
     background-color: #edf4fd;
     border: 1px solid;
@@ -6,36 +6,38 @@
     position: fixed;
 }
 
-.centerConteudo {    
+.centerConteudo {
     margin: 0 auto;
     padding: 0 2%;
     width: 100%;
 }
 
-.box-botoes{
+.box-botoes {
     width: 100%;
     display: flex;
-    align-items: center;    
+    align-items: center;
 }
 
-.botoes{
+.botoes {
     margin: 0px auto;
-    border: 0px solid;   
-    padding: 3px 8px; 
+    border: 0px solid;
+    padding: 3px 8px;
 }
 
-.botoes ul{
+.botoes ul {
     display: flex;
 }
 
-.botoes li{
+.botoes li {
     list-style: none;
     margin: 0 150px;
-    align-items: center; /*Pra ficar tudo centralizado*/
-    justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
+    align-items: center;
+    /*Pra ficar tudo centralizado*/
+    justify-content: space-between;
+    /*Pra jogar os itens pra lados opostos da tela*/
 }
 
-.botoes li a{
+.botoes li a {
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -44,62 +46,73 @@
     opacity: 1;
 }
 
-.menu li a:hover{
+.menu li a:hover {
     opacity: 0.7;
 }
 
 
-.tituloPag1{
+.tituloPag1 {
     margin-top: 25px;
-    margin-left: 70px;   
+    margin-left: 70px;
 }
 
-.tituloPag1 h1{
+.tituloPag1 h1 {
     margin-left: 190px;
-    color: rgb(0, 0, 0);    
+    color: rgb(0, 0, 0);
     width: 450px;
-    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+    flex-wrap: wrap;
+    /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
-.meiota{
-    
+.meiota {
+
     height: 450px;
     margin-left: 290px;
-    margin-right: 150px;;
+    margin-right: 150px;
+    ;
 }
 
-.textoPag1{
-    
+.textoPag1 {
+
     width: 450px;
     margin-top: 25px;
-    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+    flex-wrap: wrap;
+    /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
-.textoPag1 h3{
+.textoPag1 h3 {
     font-size: 20px;
 }
 
-.participeTambem{
-    border-radius: 8px solid rgb(211, 18, 18);    
+.participeTambem {    
+    text-decoration: none;    
+    width: 3px;   
+    align-items: center; 
 }
 
-.participeTambem h3{
+.participeTambem h3 {
     margin-top: 30px;
-    margin-left: 80px;
+    margin-left: 85px;
     width: 200px;
-    color: red;       
+    text-decoration: none;
+    color: black;
+    background-color: #87aab9;   
+    border: 2px;
+    width: 200px;
+    
 }
 
-.peopleImage{
+.peopleImage {
     margin-left: 800px;
     margin-top: -380px;
-    
+
     height: 450px;
     width: 450px;
 }
 
-.peopleImage img{
+.peopleImage img {
     width: 500px;
     height: 450px;
 }
+
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
