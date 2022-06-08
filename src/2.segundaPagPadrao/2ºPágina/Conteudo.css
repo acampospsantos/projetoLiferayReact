@@ -50,31 +50,58 @@
 
 .tituloPag2{
     margin-top: 25px;
-    margin-left: 70px;   
+    margin-left: 280px;   
+    background-color: orange;
+    width: 230px;
 }
 
 .tituloPag2 h1{
-    margin-left: 190px;
+    width: auto;    
     color: rgb(0, 0, 0);    
     width: 450px;
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
+.meiota{
+    background-color: blue;
+    height: 450px;
+    margin-left: 290px;
+    margin-right: 150px;;
+}
+
 .textoPag2{
     background-color: green;
-    width: 500px;
+    width: 450px;
     margin-top: 25px;
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
-.vemSerVoluntario h3 {
-    width: 200px;
-    color: red;    
-    border-radius: 8px;
+.textoPag2 h3{
+    font-size: 20px;
 }
 
 .vemSerVoluntario{
     border-radius: 8px solid rgb(211, 18, 18);    
+}
+
+.vemSerVoluntario h3 {
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 200px;
+    color: red;   
+}
+
+.blueImage{
+    margin-left: 900px;
+    margin-top: -325px;
+    background-color: black;
+    height: 450px;
+    width: 450px;
+}
+
+.blueImage img{
+    width: 500px;
+    height: 450px;
 }
 
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
