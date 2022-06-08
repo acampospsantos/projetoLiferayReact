@@ -21,9 +21,30 @@ function MiddleContent() {
                     <h1> FAÇA SEU LOGIN </h1>
                 </div>
 
-            </div>
+                <div className="form">
+                    <form>
+                        <div className="items-form">
+                            <input placeholder="CPF/CNPJ..." type="text" />
+                            <h4> CPF/CNPJ </h4>
+                            <input placeholder="Senha..." type="text" />
+                            <h4> SENHA </h4>
+                            <p> Use oito ou mais caracteres com uma combinação de letras, números e símbolos </p>
+                        </div>
+                        <input type="submit" />
+                    </form>
+                </div>
 
-        </div>
+                <div className="semContaVol">
+                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser um Voluntário </h3> </a>
+                </div>
+
+                <div className="semContaOrg">
+                    <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser uma Organização </h3> </a>
+                </div>
+
+            </div >
+
+        </div >
     )
 }
 
