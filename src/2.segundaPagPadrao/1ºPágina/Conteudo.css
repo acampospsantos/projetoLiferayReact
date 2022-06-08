@@ -61,4 +61,45 @@
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
+.meiota{
+    background-color: blue;
+    height: 450px;
+    margin-left: 290px;
+    margin-right: 150px;;
+}
+
+.textoPag1{
+    background-color: green;
+    width: 450px;
+    margin-top: 25px;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+.textoPag1 h3{
+    font-size: 20px;
+}
+
+.participeTambem{
+    border-radius: 8px solid rgb(211, 18, 18);    
+}
+
+.participeTambem h3{
+    margin-top: 30px;
+    margin-left: 80px;
+    width: 200px;
+    color: red;       
+}
+
+.peopleImage{
+    margin-left: 800px;
+    margin-top: -300px;
+    background-color: black;
+    height: 450px;
+    width: 450px;
+}
+
+.peopleImage img{
+    width: 500px;
+    height: 450px;
+}
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
