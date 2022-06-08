@@ -1,9 +1,9 @@
 import { BrowserRouter } from 'react-router-dom'
 
 import './App.css';
-import Header from './2.segundaPagPadrao/5ºPágina/Cabeçalho';
-import MiddleContent from './2.segundaPagPadrao/5ºPágina/Conteudo';
-import Footer from './2.segundaPagPadrao/5ºPágina/Rodapé';
+import Header from './2.segundaPagPadrao/6ºPágina/Cabeçalho';
+import MiddleContent from './2.segundaPagPadrao/6ºPágina/Conteudo';
+import Footer from './2.segundaPagPadrao/6ºPágina/Rodapé';
 import React from 'react';
 
 
