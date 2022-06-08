@@ -1,4 +1,4 @@
-.conteudo{
+.conteudo {
     height: 755px;
     background-color: #edf4fd;
     border: 1px solid;
@@ -6,36 +6,38 @@
     position: fixed;
 }
 
-.centerConteudo {    
+.centerConteudo {
     margin: 0 auto;
     padding: 0 2%;
     width: 100%;
 }
 
-.box-botoes{
+.box-botoes {
     width: 100%;
     display: flex;
-    align-items: center;    
+    align-items: center;
 }
 
-.botoes{
+.botoes {
     margin: 0px auto;
-    border: 0px solid;   
-    padding: 3px 8px; 
+    border: 0px solid;
+    padding: 3px 8px;
 }
 
-.botoes ul{
+.botoes ul {
     display: flex;
 }
 
-.botoes li{
+.botoes li {
     list-style: none;
     margin: 0 150px;
-    align-items: center; /*Pra ficar tudo centralizado*/
-    justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
+    align-items: center;
+    /*Pra ficar tudo centralizado*/
+    justify-content: space-between;
+    /*Pra jogar os itens pra lados opostos da tela*/
 }
 
-.botoes li a{
+.botoes li a {
     text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -44,20 +46,65 @@
     opacity: 1;
 }
 
-.menu li a:hover{
+.menu li a:hover {
     opacity: 0.7;
 }
 
-.tituloPag5{
+.tituloPag5 {
     margin-top: 25px;
-    margin-left: 70px;   
+    margin-left: 70px;
 }
 
-.tituloPag5 h1{
+.tituloPag5 h1 {
     margin-left: 190px;
-    color: rgb(0, 0, 0);    
+    color: rgb(0, 0, 0);
     width: 450px;
+    flex-wrap: wrap;
+    /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+/*div que estiliza o bloco do forms*/
+.form {
+     /*Coloquei só pra ver oq a área tá ocupando*/
+    display: flex;
+    width: 600px; /*Faço isso pra centralizar o form no meio da tela*/
+    height: auto;
+    margin-left: 250px;
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+/*Estilizando o bloco que as entradas do forms estão inseridas*/
+.items-form {
+    background-color: red;
+    width: 500px; /*Tamanho máximo q a entrada pode ter*/
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+.items-form h4{
+    display: flex;
+    margin-top: 10px;
+}
+
+/*Estiliza as entradas do form (Q SE DIGITA) */
+.items-form input[type=text] {
+    margin-top: 20px;
+    width: 48%;
+    height: 30px;
+    margin: 8px 6px;
+    padding-left: 10px;
+}
+
+/*Estiliza a entrada (ENVIAR) */
+.form input[type=submit] {
+    width: 100%;
+    height: 40px;
+    background-color: #080808;
+    cursor: pointer;
+    color: white;
+    border: 0;
+    font-size: 19px;
 }
 
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
