@@ -27,7 +27,7 @@ function MiddleContent() {
                     </div>
 
                     <div className="vemSerVoluntario">
-                        <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser um voluntário </h3> </a>
+                        <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Vem ser um voluntário! </h3> </a>
                     </div>
 
                     <div className="blueImage">

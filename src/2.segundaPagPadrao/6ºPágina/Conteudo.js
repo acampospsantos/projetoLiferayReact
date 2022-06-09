@@ -40,6 +40,10 @@ function MiddleContent() {
                     </form>
                 </div>
 
+                <div className="imagem">
+                    <img src="https://www.liferay.com/documents/10182/0/unify+LXC.svg/cec85a80-dd11-ded0-91e9-66abe1e09bcb/unify+LXC.svg?t=1647020822439&download=true"/>
+                </div>
+
             </div>
 
         </div>

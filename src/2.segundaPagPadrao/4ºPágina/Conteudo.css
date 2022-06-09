@@ -60,12 +60,18 @@
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
+.tituloPag4 h4{
+    margin-left: 100px;
+    color: #1127e7;
+}
+
 .form {
     /*Coloquei só pra ver oq a área tá ocupando*/
    display: flex;
    width: 600px; /*Faço isso pra centralizar o form no meio da tela*/
    height: auto;
-   margin-left: 250px;
+   margin-top: 20px;
+   margin-left: -50px;
    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
@@ -123,5 +129,17 @@
     margin-left: 80px;
     width: 300px;
     color: red;   
+ }
+
+ .imagem{     
+     margin-left: 1000px;
+     margin-top: -300px;
+     width: auto;
+     height: auto;     
+ }
+
+ .imagem img{
+     width: 500px;
+     height: 500px;
  }
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

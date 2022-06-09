@@ -60,4 +60,46 @@
     flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
 }
 
+.meiota{
+    height: 450px;
+    margin-left: 290px;
+    margin-right: 150px;;
+}
+
+.textoPag3{
+    width: 480px;
+    margin-top: 25px;
+    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+}
+
+.textoPag2 h3{
+    font-size: 20px;
+}
+
+.cadastreEmpresa{
+    background-color: #1127e7;  
+    width: 240px;  
+    height: 40px;
+    margin-left: 80px;    
+}
+
+.cadastreEmpresa h3 {
+    margin-top: 30px;    
+    width: 200px;
+    color: black;         
+    border: 2px;    
+    width: 400px;       
+}
+
+.blueImage{
+    margin-left: 600px;
+    margin-top: -405px;    
+    height: 350px;
+    width: 400px;
+}
+
+.blueImage img{
+    width: 600px;
+    height: 550px;
+}
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

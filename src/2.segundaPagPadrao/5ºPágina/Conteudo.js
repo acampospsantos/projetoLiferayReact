@@ -38,10 +38,14 @@ function MiddleContent() {
                             <h4> SENHA </h4>                            
                             <input placeholder="Confirmar..." type="text" />
                             <h4> CONFIRMAR </h4>
-                            <p> Use oito ou mais caracteres com uma combinação de letras, números e símbolos </p>
+                            <strong> <p> Use oito ou mais caracteres com uma combinação de letras, números e símbolos </p> </strong>
                         </div>                        
                         <input type="submit" />                        
                     </form>
+                </div>
+
+                <div className="imagem">
+                    <img src="https://www.liferay.com/documents/10182/0/unify+LXC.svg/cec85a80-dd11-ded0-91e9-66abe1e09bcb/unify+LXC.svg?t=1647020822439&download=true"/>
                 </div>
 
             </div>

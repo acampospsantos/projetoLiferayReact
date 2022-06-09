@@ -19,6 +19,7 @@ function MiddleContent() {
 
                 <div className="tituloPag4">
                     <h1> FAÇA SEU LOGIN </h1>
+                    <h4> Insira o CPF ou CNPJ associado a sua conta de acesso. </h4>
                 </div>
 
                 <div className="form">
@@ -40,6 +41,10 @@ function MiddleContent() {
 
                 <div className="semContaOrg">
                     <a href=".\2.segundaPagPadrao\5ºPágina\Pag5.js"> <h3> Ainda não possui uma conta? Vem ser uma Organização </h3> </a>
+                </div>
+
+                <div className="imagem">
+                    <img src="https://www.liferay.com/documents/10182/0/unify+LXC.svg/cec85a80-dd11-ded0-91e9-66abe1e09bcb/unify+LXC.svg?t=1647020822439&download=true"/>
                 </div>
 
             </div >

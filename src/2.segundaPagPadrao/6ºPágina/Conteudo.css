@@ -104,4 +104,16 @@
    font-size: 19px;
 }
 
+.imagem{     
+    margin-left: 1000px;
+    margin-top: -350px;
+    width: auto;
+    height: auto;         
+}
+
+.imagem img{
+    width: 500px;
+    height: 500px;
+}
+
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/
