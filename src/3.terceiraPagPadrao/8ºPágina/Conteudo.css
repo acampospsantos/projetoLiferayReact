@@ -12,7 +12,7 @@
     width: 100%;
 }
 
-.box-botoes{
+.box-botoes{    
     width: 100%;
     display: flex;
     align-items: center;    
@@ -30,7 +30,7 @@
 
 .botoes li{
     list-style: none;
-    margin: 0 150px;
+    margin: 15px 220px;
     align-items: center; /*Pra ficar tudo centralizado*/
     justify-content: space-between; /*Pra jogar os itens pra lados opostos da tela*/
 }
@@ -48,58 +48,35 @@
     opacity: 0.7;
 }
 
-.tituloPag3{
-    margin-top: 25px;
-    margin-left: 70px;   
+.portalOrganizacao{    
+    margin-top: 5px;
+    margin-left: 50px;
 }
 
-.tituloPag3 h1{
+.portalOrganizacao h1{
     margin-left: 190px;
-    color: rgb(0, 0, 0);    
-    width: 450px;
-    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+    color: blue;    
 }
 
-.meiota{
-    height: 450px;
-    margin-left: 290px;
-    margin-right: 150px;;
-}
-
-.textoPag3{
-    width: 480px;
+.acoesPromovidas {    
+    width: 330px;
     margin-top: 25px;
-    flex-wrap: wrap; /*forço o conteúdo cair pra baixo(se n tiver espaço)*/
+    margin-left: 250px;
 }
 
-.textoPag2 h3{
-    font-size: 20px;
+.acoesPromovidas h2{
+    font-size: 32px;    
+    color: black;
 }
 
-.cadastreEmpresa{
-    background-color: #1127e7;  
-    width: 240px;  
-    height: 40px;
-    margin-left: 80px;    
+.boxAcoes{
+    margin-top: 50px;
+    width: 1300px;
+    height: 490px;
+    margin-left: 250px;
+    background-color: aqua;
+    border: 4px orange;
 }
 
-.cadastreEmpresa h3 {
-    margin-top: 30px;    
-    width: 200px;
-    color: black;         
-    border: 2px;    
-    width: 400px;       
-}
 
-.blueImage{
-    margin-left: 600px;
-    margin-top: -440px;    
-    height: 350px;
-    width: 400px;
-}
-
-.blueImage img{
-    width: 600px;
-    height: 550px;
-}
 /*----------------FIM DA PRIMEIRA PARTE DO CONTEUDO ---------------*/

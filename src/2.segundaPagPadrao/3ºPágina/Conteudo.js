@@ -23,7 +23,7 @@ function MiddleContent() {
 
                 <div className="meiota">
                     <div className="textoPag3">
-                        <h3> O voluntariado é sobre trocas - de experiência, conhecimento, serviço, apoio, cidadania, carinho, amor... Existindo um ganho não apenas para a organização, mas também para o voluntário. É uma experiência para todos independe de gênero, raça ou etnia que permite conhecer novas realidades, se engajar em uma causa social, contribuir com suas habilidades, e até mesmo desenvolver novas competências. </h3>
+                        <h3> Em um período tão delicado,somar esforços junto às entidades do terceiro setor, coletivos, e indivíduos para realizar distribuição direta e indireta de recursos, cuidado integral, a fim de promover e garantir de forma humanizada, por meio de ações práticas, a dignidade e os direitos básicos de grupos vulneráveis.O sistema  desenvolvido organizará processos e atividades centrais de uma ONG, facilitando o acesso a diversas informações, como o cadastro de voluntário e a distribuição de organizações </h3>
                     </div>
 
                     <div className="cadastreEmpresa">

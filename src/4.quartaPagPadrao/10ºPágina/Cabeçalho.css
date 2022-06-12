@@ -1,0 +1,46 @@
+/*div que todo o cabeçalho se encontra inserido*/
+.main {
+    padding: 40px 0;
+    background-color: #ede9e9;
+    height: 50px; /*Conteúdo dessa div tem no MÍNIMO 400px(podendo aumentar)*/
+    border: 1px solid;
+}
+
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+/* Usando conceito de Flex Box */
+.menu {
+    width: 100%;
+    display: flex;
+    flex-direction: row; /*Faz com que os elementos da flex box estejam alinhados da esquerda para direita*/
+    justify-content: space-between; /*Põe um espaço entre os elementos(os afasta)*/
+    
+}
+
+.logo{
+    margin-left: -320px;
+}
+
+.logo img {
+    width: 100px;
+    height: 30px;
+}
+
+/*div que estiliza botão Login*/
+.item-menu {    
+    margin-right: -320px;
+    padding: 3px 8px;    
+}
+
+.item-menu a{
+
+}
+
+.item-menu img{
+    height: 28px;
+    width: 28px;
+}

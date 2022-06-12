@@ -1,8 +1,10 @@
+import React from 'react';
+
 import Header from './Cabeçalho.js';
 import MiddleContent from './Conteudo.js';
 import Footer from './Rodapé.js';
 
-function TerceiraPagina() {
+const QuartaPagina= () => {
     return (
         <div className='Pag'>
             <Header /> {/* Cabeçalho */}
@@ -14,4 +16,4 @@ function TerceiraPagina() {
     )
 }
 
-export default TerceiraPagina;
+export default QuartaPagina;

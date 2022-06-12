@@ -1,6 +1,6 @@
-import Header from "./4.quartaPagPadrao\Cabeçalho.css";
-import MiddleContent from "./4.quartaPagPadrao\Conteudo.css";
-import Footer from "./4.quartaPagPadrao\Rodapé.css";
+import Header from "./Cabeçalho";
+import MiddleContent from "./Conteudo";
+import Footer from "./Rodapé";
 
 function DecimaPagina() {
     return (

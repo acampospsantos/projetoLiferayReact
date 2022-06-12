@@ -1,8 +1,10 @@
+import React from 'react';
+
 import Header from './Cabeçalho.js';
 import MiddleContent from './Conteudo.js';
 import Footer from './Rodapé.js';
 
-function TerceiraPagina() {
+const TerceiraPagina = () => {
     return (
         <div className='Pag'>
             <Header /> {/* Cabeçalho */}
@@ -11,7 +13,7 @@ function TerceiraPagina() {
 
             <Footer /> {/* Rodapé */}
         </div>
-    )
+    );
 }
 
 export default  TerceiraPagina;

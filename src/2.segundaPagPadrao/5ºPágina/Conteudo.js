@@ -38,7 +38,7 @@ function MiddleContent() {
                             <h4> SENHA </h4>                            
                             <input placeholder="Confirmar..." type="text" />
                             <h4> CONFIRMAR </h4>
-                            <strong> <p> Use oito ou mais caracteres com uma combinação de letras, números e símbolos </p> </strong>
+                            <strong>  </strong>
                         </div>                        
                         <input type="submit" />                        
                     </form>

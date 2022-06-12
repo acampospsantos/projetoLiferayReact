@@ -1,6 +1,8 @@
-import Header from "./3.terceiraPagPadrao\Cabeçalho.css";
-import MiddleContent from "./3.terceiraPagPadrao\Conteudo.css";
-import Footer from "./3.terceiraPagPadrao\Rodapé.css";
+import React from "react";
+
+import Header from "./Cabeçalho";
+import MiddleContent from "./Conteudo";
+import Footer from "./Rodapé";
 
 function OitavaPagina() {
     return (

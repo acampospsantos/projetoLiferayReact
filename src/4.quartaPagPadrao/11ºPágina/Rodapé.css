@@ -1,0 +1,40 @@
+.final {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #193582;
+}
+
+.center {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+
+.foot {    
+    display: flex;
+    flex-direction: row; /*Faz com que os elementos da flex box estejam alinhados da esquerda para direita*/
+    justify-content: center; /*Põe um espaço entre os elementos(os afasta)*/
+    margin: 10px auto;
+    width: 100%;
+}
+
+.itens-foot{
+    display: flex;
+    margin-top: 80px;
+}
+
+.logoo{
+    margin-right: 15px;
+}
+
+/*Configurando o tamanho da imagem*/
+.logoo img {
+    height: 28px;
+    width: 28px;
+}
+
+.texto{
+    padding-top: 2px;
+}

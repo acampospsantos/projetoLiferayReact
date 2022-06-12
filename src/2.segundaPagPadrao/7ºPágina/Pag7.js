@@ -1,8 +1,10 @@
+import React from 'react';
+
 import Header from './Cabeçalho.js';
 import MiddleContent from './Conteudo.js';
 import Footer from './Rodapé.js';
 
-function SetimaPagina() {
+const SetimaPagina= () => {
     return (
         <div className='Pag'>
             <Header /> {/* Cabeçalho */}

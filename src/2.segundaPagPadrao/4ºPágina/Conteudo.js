@@ -29,7 +29,7 @@ function MiddleContent() {
                             <h4> CPF/CNPJ </h4>
                             <input placeholder="Senha..." type="text" />
                             <h4> SENHA </h4>
-                            <p> Esqueceu a senha? </p>
+                            <a href="#"> Esqueceu a senha? </a>
                         </div>
                         <input type="submit" />
                     </form>
